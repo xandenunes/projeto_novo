@@ -2,7 +2,7 @@ import React from "react";
 const TutorialList = () => {
   return (
     <div >    
-        to no tutorial list
+        Esta é a lista do tutorial mudada
     </div>
   );
 };
